@@ -6,7 +6,7 @@
 
 
 
-下載打包好的請到[Releases](https://github.com/takidog/MoOnlineLogin/releases>)
+下載打包好的請到[Releases](https://github.com/takidog/MoOnlineLogin/releases)
 
 
 
