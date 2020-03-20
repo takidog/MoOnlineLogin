@@ -1,0 +1,6 @@
+{
+    "gamePath": "C:/Lager/moonline/mystina.exe",
+    "loginPath": "C:/Lager/moonline/login.exe",
+    "saveCaptcha": true,
+    "accountPath": "account.json"
+}
