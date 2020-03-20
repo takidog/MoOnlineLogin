@@ -4,6 +4,12 @@
 
 不就登入器是有多麻煩:I
 
+
+
+下載打包好的請到[Releases](https://github.com/takidog/MoOnlineLogin/releases>)
+
+
+
 ## 使用方式
 
 目前只有開發console版本，並沒有GUI介面
